@@ -1,0 +1,16 @@
+[History]
+1=#P0#=mb	#P1#=Form_Resize	#P2#=Project1/Form1/Form_Resize	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20201217205051	#P7#=0	#P8#=1	.
+2=#P0#=mb	#P1#=cmdTopLeft_Click	#P2#=Project1/Form1/cmdTopLeft_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20201217204027	#P7#=0	#P8#=1	.
+3=#P0#=mb	#P1#=regionselectiontimer_Timer	#P2#=Project1/Form1/regionselectiontimer_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20201217203922	#P7#=0	#P8#=11	.
+4=#P0#=mb	#P1#=cmdAbout_Click	#P2#=Project1/Form1/cmdAbout_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20201217203134	#P7#=0	#P8#=2	.
+5=#P0#=mb	#P1#=cmdStart_Click	#P2#=Project1/Form1/cmdStart_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20201217202937	#P7#=0	#P8#=-1	.
+6=#P0#=mb	#P1#=cmdHelp_Click	#P2#=Project1/Form1/cmdHelp_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20201217202921	#P7#=0	#P8#=2	.
+7=#P0#=mb	#P1#=chkTopMost_Click	#P2#=Project1/Form1/chkTopMost_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20201217202543	#P7#=0	#P8#=4	.
+8=#P0#=mb	#P1#=cursorMoveTimer_Timer	#P2#=Project1/Form1/cursorMoveTimer_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20201217192031	#P7#=0	#P8#=8	.
+9=#P0#=mb	#P1#=RandomMotion	#P2#=Project1/Form1/RandomMotion	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20201217192001	#P7#=0	#P8#=5	.
+10=#P0#=mb	#P1#=HorizontalRowMotion	#P2#=Project1/Form1/HorizontalRowMotion	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20201217191716	#P7#=0	#P8#=-2	.
+11=#P0#=mb	#P1#=cursorpostimer_Timer	#P2#=Project1/Form1/cursorpostimer_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20201217191608	#P7#=0	#P8#=-2	.
+12=#P0#=mb	#P1#=chkRandom_Click	#P2#=Project1/Form1/chkRandom_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20201217191440	#P7#=0	#P8#=9	.
+13=#P0#=mb	#P1#=cmdStop_Click	#P2#=Project1/Form1/cmdStop_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20201217155456	#P7#=0	#P8#=0	.
+14=#P0#=mb	#P1#=cmdBottomRight_Click	#P2#=Project1/Form1/cmdBottomRight_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20201217115322	#P7#=0	#P8#=-2	.
+15=#P0#=mb	#P1#=hotkeyListenerTimer_Timer	#P2#=Project1/Form1/hotkeyListenerTimer_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20201217102507	#P7#=0	#P8#=8	.
